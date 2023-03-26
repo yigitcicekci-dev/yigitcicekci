@@ -11,6 +11,11 @@ My name is Yiğit. I am a computer engineering student at Atılım University. F
 * 🧠  I'm learning Python
 * ⚡  I love bodybuilding!
 
+<a href="https://www.twitter.com/yigit_cicekci" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/yigit_cicekci?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/ruvera" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/ruvera?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
 ### Skills
 
 
@@ -26,3 +31,4 @@ My name is Yiğit. I am a computer engineering student at Atılım University. F
 
 <p align="left"> <a href="https://www.github.com/yigitcicecki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yigitcicekci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yigit_cicekci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/ruvera" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
+### Badges
