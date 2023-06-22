@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior C/C++ Developer
 ----------------------
 
-My name is Yiğit. I am a computer engineering student at Atılım University. For years, I have always enjoyed dealing with computers. My goal is to improve myself more and learn everything on this path.
+My name is Yiğit. I am a computer engineering student at Atilim University. For years, I have always enjoyed dealing with computers. My goal is to improve myself more and learn everything on this path.
 
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [yigitcicekci1@gmail.com](mailto:yigitcicekci1@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning FastAPI.
 * ⚡  I love bodybuilding!
 
 <a href="https://www.twitter.com/yigit_cicekci" target="_blank" rel="noreferrer"><img
