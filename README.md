@@ -7,7 +7,7 @@ Junior Software Developer
 My name is Yiğit. I am a computer engineering student at Atilim University. For years, I have always enjoyed dealing with computers. My goal is to improve myself more and learn everything on this path.
 
 # 💫 About Me:
-🌍  I'm based in Ankara<br>✉️  You can contact me at yigitcicekci1@gmail.com<br>🧠  I'm learning HTMLS/CSS.<br>⚡  I love bodybuilding!
+🌍  I'm based in Ankara<br>✉️  You can contact me at yigitcicekci1@gmail.com<br>🧠  I'm learning HTML5/CSS.<br>⚡  I love bodybuilding!
 
 
 ## 🌐 Socials:
