@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruvera
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yiğit!
 ==============================================================================================================================
 
-Junior C/C++ Developer
+Junior Software Developer
 ----------------------
 
 My name is Yiğit. I am a computer engineering student at Atilim University. For years, I have always enjoyed dealing with computers. My goal is to improve myself more and learn everything on this path.
 
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [yigitcicekci1@gmail.com](mailto:yigitcicekci1@gmail.com)
-* 🧠  I'm learning FastAPI.
+* 🧠  I'm learning HTMLS/CSS.
 * ⚡  I love bodybuilding!
 
 <a href="https://www.twitter.com/yigit_cicekci" target="_blank" rel="noreferrer"><img
