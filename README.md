@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yiğit!
 ==============================================================================================================================
 
-Junior Software Developer
+Junior Back-End Developer
 ----------------------
 
 My name is Yiğit. I am a computer engineering student at Atilim University. For years, I have always enjoyed dealing with computers. My goal is to improve myself more and learn everything on this path.
 
 # 💫 About Me:
-🌍  I'm based in Ankara<br>✉️  You can contact me at yigitcicekci1@gmail.com<br>🧠  I'm learning Node.js.<br>⚡  I love bodybuilding!
+🌍  I'm based in Ankara<br>✉️  You can contact me at yigitcicekci1@gmail.com<br>🧠  I'm learning Node.js & TypeScript.<br>⚡  I love bodybuilding!
 
 
 ## 🌐 Socials:
